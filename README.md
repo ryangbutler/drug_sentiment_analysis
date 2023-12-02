@@ -6,9 +6,9 @@
 **huggingface (RoBERTa)**<br>
 **spaCY**<br>
 
-## We compare the sentiment analysis tools based on how well they align with the 1-10 rating scores, select the best model, and answer questions about the dataset based on our findings.
+We compare the sentiment analysis tools based on how well they align with the 1-10 rating scores, select the best model, and answer questions about the dataset based on our findings.<br><br>
 
 
-#### Enjoy! 
+Enjoy!<br>
 
-#### -Ryan
+-Ryan
