@@ -3,9 +3,9 @@ The purpose of this project is to utilize well known sentiment analysis models t
 
 ### This project utilizes several well-known sentiment analysis tools:
 
-<b>NLTK VADER</b><br>
-<b>huggingface (RoBERTa)</b><br>
-<b>spaCY</b><br><br>
+NLTK VADER<br>
+huggingface (RoBERTa)<br>
+spaCY<br><br>
 
 
 ### Data Schema Documentation <br>
