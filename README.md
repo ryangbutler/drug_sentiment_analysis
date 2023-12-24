@@ -1,4 +1,5 @@
-# drug_sentiment_analysis
+# Drug Sentiment Analysis <br>
+The purpose of this project is to utilize well known sentiment analysis models to analyze a set of data covering reviews of experimental drugs.  We compare the sentiment analysis tools based on how well they align with the 1-10 rating scores, select the best model, and answer questions about the dataset based on our findings.<br><br>
 
 ### This project utilizes several well-known sentiment analysis tools:
 
@@ -6,7 +7,6 @@
 <b>huggingface (RoBERTa)</b><br>
 <b>spaCY</b><br><br>
 
-We compare the sentiment analysis tools based on how well they align with the 1-10 rating scores, select the best model, and answer questions about the dataset based on our findings.<br><br>
 
 ### Data Schema Documentation <br>
 
