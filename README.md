@@ -1,6 +1,6 @@
 # drug_sentiment_analysis
 
-This project utilizes several well-known sentiment analysis tools:
+### This project utilizes several well-known sentiment analysis tools:
 
 <b>NLTK VADER</b><br>
 <b>huggingface (RoBERTa)</b><br>
