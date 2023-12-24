@@ -8,7 +8,7 @@ spaCY<br><br>
 
 We compare the sentiment analysis tools based on how well they align with the 1-10 rating scores, select the best model, and answer questions about the dataset based on our findings.<br><br>
 
-Data Schema Documentation <br>
+### Data Schema Documentation <br>
 
  <table>
   <tr>
